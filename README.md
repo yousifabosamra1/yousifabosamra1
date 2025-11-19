@@ -5,22 +5,21 @@
 <br/>
 <br/>
 
-I'm passionate about **Cybersecurity**, and I'm currently building a strong foundation in programming and systems to become a **Bug Bounty Hunter & Penetration Tester**.  
+I am passionate about **Cybersecurity** 🔐, and I’m currently building a strong foundation in **C++**, **Linux**, **Networking**, and **Python** to become a **Bug Bounty Hunter & Penetration Tester**.  
 I love exploring new technologies and working on projects that help me improve my technical skills. 👨‍💻🔥
 
----
+<br/>
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; Currently working on projects using **C++**  
-- 🛡️ &nbsp; Interested in **Bug Bounty** and **Ethical Hacking**  
-- 🌱 &nbsp; Learning **HTML & CSS** to get into Web Pentesting  
-- 🐧 &nbsp; Strong understanding of **Linux fundamentals**  
-- 🌐 &nbsp; Good knowledge of **Networking basics**  
-- 🐍 &nbsp; Comfortable with **Python** for small scripts and automation  
-- 💬 &nbsp; Ask me anything about programming or cybersecurity  
-- 📫 &nbsp; Feel free to reach out on LinkedIn  
-- 📚 &nbsp; I enjoy reading about cybersecurity, hacking, and tech  
+- 🔭 &nbsp; Currently working on **Bank Management System (C++)**
+- 🛡️ &nbsp; Interested in **Bug Bounty** and **Ethical Hacking**
+- 🌱 &nbsp; Learning **HTML & CSS** for Web Pentesting
+- 🐧 &nbsp; Strong understanding of **Linux fundamentals**
+- 🌐 &nbsp; Good knowledge of **Networking basics**
+- 🐍 &nbsp; Comfortable with **Python** for small scripts and automation
+- 💬 &nbsp; Ask me anything about programming or cybersecurity
+- 📫 &nbsp; Email: yousifmohamedym590@gmail.com
 
 ---
 
@@ -52,10 +51,9 @@ I love exploring new technologies and working on projects that help me improve m
 - 🐧 **Linux & Networking Practice**  
   Practical exercises on Linux commands, bash basics, and networking fundamentals.
 
-
 ---
 
 ### 📫 Contact
-📧 Email: yousifmohamedym590@gmail.com 
+📧 Email: yousifmohamedym590@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/  
 🐤 Twitter: https://twitter.com/
