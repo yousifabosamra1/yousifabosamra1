@@ -10,6 +10,8 @@ I love exploring new technologies and working on projects that help me improve m
 
 <br/>
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="360px"/>
+
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; Currently working on **Bank Management System (C++)**
@@ -21,10 +23,9 @@ I love exploring new technologies and working on projects that help me improve m
 - 💬 &nbsp; Ask me anything about programming or cybersecurity
 - 📫 &nbsp; Email: yousifmohamedym590@gmail.com
 
----
+<br>
 
 ### 🔨 Languages and Tools:
-
 <a><img align="left" alt="C++" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a>
 <a><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
 <a><img align="left" alt="Linux" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>
@@ -37,19 +38,14 @@ I love exploring new technologies and working on projects that help me improve m
 ---
 
 ### 🛠️ My Projects
+<a href="#" target="_blank"> <img alt="bank system" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="68" align="left"> </a>
+<a href="#" target="_blank"> <img alt="python scripts" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  height="68" align="left"> </a>
+<a href="#" target="_blank"> <img alt="linux practice" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="68" align="left"> </a>
 
-- 💳 **Bank Management System (C++)**  
-  A full console-based banking system built using C++.  
-  Features include: account creation, balance inquiry, deposit/withdrawal, and secure data handling.
-
-- 🔧 **Small C++ Practice Programs**  
-  Various small projects and exercises to strengthen C++ fundamentals (loops, OOP, file handling, etc.).
-
-- 🐍 **Python Mini Scripts** *(Learning Purposes)*  
-  Simple scripts created while learning Python and automation basics.
-
-- 🐧 **Linux & Networking Practice**  
-  Practical exercises on Linux commands, bash basics, and networking fundamentals.
+- 💳 **Bank Management System (C++)** – A console-based banking system with account management, deposits, withdrawals, and file handling.
+- 🔧 **Small C++ Practice Programs** – Loops, OOP, and file handling exercises.
+- 🐍 **Python Mini Scripts** – Small automation scripts and learning exercises.
+- 🐧 **Linux & Networking Practice** – Exercises on Linux commands and networking basics.
 
 ---
 
