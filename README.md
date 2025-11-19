@@ -10,7 +10,7 @@ I love exploring new technologies and working on projects that help me improve m
 
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 ### 🧐 More About Me:
 
@@ -38,9 +38,6 @@ I love exploring new technologies and working on projects that help me improve m
 ---
 
 ### 🛠️ My Projects
-<a href="#" target="_blank"> <img alt="bank system" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="68" align="left"> </a>
-<a href="#" target="_blank"> <img alt="python scripts" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  height="68" align="left"> </a>
-<a href="#" target="_blank"> <img alt="linux practice" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="68" align="left"> </a>
 
 - 💳 **Bank Management System (C++)** – A console-based banking system with account management, deposits, withdrawals, and file handling.
 - 🔧 **Small C++ Practice Programs** – Loops, OOP, and file handling exercises.
