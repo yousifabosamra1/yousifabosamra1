@@ -39,10 +39,19 @@ I love exploring new technologies and working on projects that help me improve m
 
 ### 🛠️ My Projects
 
-- 💳 **Bank Management System (C++)** – A console-based banking system with account management, deposits, withdrawals, and file handling.
-- 🔧 **Small C++ Practice Programs** – Loops, OOP, and file handling exercises.
-- 🐍 **Python Mini Scripts** – Small automation scripts and learning exercises.
-- 🐧 **Linux & Networking Practice** – Exercises on Linux commands and networking basics.
+- 💳 **Bank Management System (C++)**  
+  A full console-based banking system built using C++.  
+  Features include: account creation, balance inquiry, deposit/withdrawal, and secure data handling.
+
+- 🔧 **Small C++ Practice Programs**  
+  Various small projects and exercises to strengthen C++ fundamentals (loops, OOP, file handling, etc.).
+
+- 🐍 **Python Mini Scripts** *(Learning Purposes)*  
+  Simple scripts created while learning Python and automation basics.
+
+- 🐧 **Linux & Networking Practice**  
+  Practical exercises on Linux commands, bash basics, and networking fundamentals.
+
 
 ---
 
