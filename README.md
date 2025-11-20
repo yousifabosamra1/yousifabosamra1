@@ -57,5 +57,4 @@ I love exploring new technologies and working on projects that help me improve m
 
 ### 📫 Contact
 📧 Email: yousifmohamedym590@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/  
-🐤 Twitter: https://twitter.com/
+🔗 LinkedIn: www.linkedin.com/in/yousif-abosamra-81a34139a 
