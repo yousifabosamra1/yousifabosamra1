@@ -1,12 +1,12 @@
-## Hey 👋, I'm Yousif Abosamra!
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5cae4264-79c2-43a5-b020-3d431a1593f5" />## Hey 👋, I'm Yousif Abosamra!
 <a href='https://www.linkedin.com/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 
 <br/>
 <br/>
 
-I am passionate about **Cybersecurity** 🔐, and I’m currently building a strong foundation in **C++**, **Linux**, **Networking**, and **Python** to become a **Bug Bounty Hunter & Penetration Tester**.  
-I love exploring new technologies and working on projects that help me improve my technical skills. 👨‍💻🔥
+I’m a C++ developer building strong programming foundations through real-world projects, with solid knowledge in Networking and Linux, and currently preparing for a career in Cybersecurity & Penetration Testing.
+
 
 <br/>
 
@@ -14,11 +14,11 @@ I love exploring new technologies and working on projects that help me improve m
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; Currently working on **Bank Management System (C++)**
+- 🔭 &nbsp; Built a full **Bank Management System using C++ and OOP principles**
 - 🛡️ &nbsp; Interested in **Bug Bounty** and **Ethical Hacking**
 - 🌱 &nbsp; Learning **HTML & CSS** for Web Pentesting
 - 🐧 &nbsp; Strong understanding of **Linux fundamentals**
-- 🌐 &nbsp; Good knowledge of **Networking basics**
+- 🌐 &nbsp; Solid background in Computer Networks **(CCNA, MCSA, MPLS)**
 - 🐍 &nbsp; Comfortable with **Python** for small scripts and automation
 - 💬 &nbsp; Ask me anything about programming or cybersecurity
 - 📫 &nbsp; Email: yousifmohamedym590@gmail.com
@@ -37,20 +37,26 @@ I love exploring new technologies and working on projects that help me improve m
 
 ---
 
-### 🛠️ My Projects
+💼 My Projects:
 
-- 💳 **Bank Management System (C++)**  
-  A full console-based banking system built using C++.  
-  Features include: account creation, balance inquiry, deposit/withdrawal, and secure data handling.
+🏦 Bank Management System (C++ - OOP)
+• Full console-based banking system using Object-Oriented Programming  
+• Features: client management, transactions, admin system with permissions, login/logout  
+• File handling for data persistence  
+• Clean modular class-based design  
 
-- 🔧 **Small C++ Practice Programs**  
-  Various small projects and exercises to strengthen C++ fundamentals (loops, OOP, file handling, etc.).
+🌐 Networking Labs (Packet Tracer & GNS3)
+• Designed enterprise-level network topologies  
+• Implemented routing, switching, VLANs, MPLS, and security scenarios  
 
-- 🐍 **Python Mini Scripts** *(Learning Purposes)*  
-  Simple scripts created while learning Python and automation basics.
+🐍 Python Automation Scripts
+• File handling & log processing tools  
+• Simple security and automation scripts  
 
-- 🐧 **Linux & Networking Practice**  
-  Practical exercises on Linux commands, bash basics, and networking fundamentals.
+💻 C++ Practice & Data Structures
+• OOP projects and problem solving  
+• Currently studying Data Structures for strong programming foundation  
+
 
 
 ---
