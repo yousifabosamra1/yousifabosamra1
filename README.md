@@ -29,7 +29,7 @@ I’m a C++ developer building strong programming foundations through real-world
 <a><img align="left" alt="C++" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a>
 <a><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
 <a><img align="left" alt="Linux" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>
-<a><img align="left" alt="Networking" height="42px" src="https://img.icons8.com/color/48/networking-manager.png"/></a>
+<a><img align="left" alt="Networking" height="42px" src="https://img.icons8.com/color/48/network.png"/></a>
 <a><img align="left" alt="HTML" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
 <a><img align="left" alt="CSS" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
 
