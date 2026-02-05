@@ -18,7 +18,7 @@ I’m a C++ developer building strong programming foundations through real-world
 - 🛡️ &nbsp; Interested in **Bug Bounty** and **Ethical Hacking**
 - 🌱 &nbsp; Learning **HTML & CSS** for Web Pentesting
 - 🐧 &nbsp; Strong understanding of **Linux fundamentals**
-- 🌐 &nbsp; Solid background in Computer Networks **(CCNA, MCSA, MPLS)**
+- 🌐 &nbsp; Solid background in Computer Networks **(CCNA, MCSA)**
 - 🐍 &nbsp; Comfortable with **Python** for small scripts and automation
 - 💬 &nbsp; Ask me anything about programming or cybersecurity
 - 📫 &nbsp; Email: yousifmohamedym590@gmail.com
